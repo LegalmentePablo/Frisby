@@ -1,0 +1,94 @@
+{
+  "identification_type": [
+    {
+      "id": "01",
+      "name": "CC"
+    },
+    {
+      "id": "02",
+      "name": "TI"
+    },
+    {
+      "id": "03",
+      "name": "OTRO"
+    },
+    {
+      "id": "04",
+      "name": "CE"
+    }
+  ],
+  "users": [
+    {
+      "identification_type": "01",
+      "id": "12",
+      "first_name": "headers",
+      "last_name": "headers",
+      "email": "headers@headers.com",
+      "password": "headers",
+      "terminos": null,
+      "rol": null
+    },
+    {
+      "identification_type": "01",
+      "id": "1",
+      "first_name": "Pablo",
+      "last_name": "Buitrago",
+      "email": "p@gmail.com",
+      "password": "1234",
+      "terminos": true,
+      "rol": null
+    }
+  ],
+  "convos": [
+    {
+      "localidades": "02",
+      "TDT": "01",
+      "id": "1",
+      "tipoTrabajo": "Mesero"
+    },
+    {
+      "localidades": "01",
+      "TDT": "01",
+      "id": "2",
+      "tipoTrabajo": "Mesero"
+    }
+  ],
+  "TDT": [
+    {
+      "id": "01",
+      "name": "Local Prueba 1"
+    },
+    {
+      "id": "02",
+      "name": "Local Prueba 2"
+    }
+  ],
+  "localidades": [
+    {
+      "id": "01",
+      "name": "Medellin"
+    },
+    {
+      "id": "02",
+      "name": "Bogota"
+    }
+  ],
+  "envios": [
+    {
+      "identification_type": "CC",
+      "id": 1,
+      "first_name": "Pablo",
+      "last_name": "Buitrago",
+      "email": "p@gmail.com"
+    },
+    {
+      "identification_type": null,
+      "id": 2,
+      "first_name": null,
+      "last_name": null,
+      "email": null
+    }
+  ],
+  "lista": [
+  ]
+}
